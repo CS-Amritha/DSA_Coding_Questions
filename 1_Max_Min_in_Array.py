@@ -19,4 +19,6 @@ arr = list(map(int,arr_input.split()))
 #map(int, ['3', '5', '4', '1', '9']) Results in: [3, 5, 4, 1, 9]
 #The map() function returns an iterable (in this case, a map object), so you need to convert it into a list.
 findMaxMin(arr)
- 
+
+
+
