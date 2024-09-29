@@ -23,3 +23,4 @@ arrinput = input("Enter array values separted with space:")
 arr = list(map(int,arrinput.split()))
 
 print(reverse(arr))
+
