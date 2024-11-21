@@ -20,3 +20,4 @@ class Solution:
         dfs(0)
         
         return dfs_traversal
+        
