@@ -1,3 +1,7 @@
+
+#p1 -> actual end of num1
+#p2 -> end of num2
+#i -> compare p1 and p2 and put at ith position
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
 
